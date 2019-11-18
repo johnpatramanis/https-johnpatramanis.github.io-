@@ -69,10 +69,10 @@ author:
 social-network-links:
   rss: true
   email: "john.patraman@gmail.com"
-  github: johnpatramanis
+  github: https://github.com/johnpatramanis/
   twitter: nope
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: www.linkedin.com/in/ioannis-patramanis-b82648183/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -88,7 +88,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
